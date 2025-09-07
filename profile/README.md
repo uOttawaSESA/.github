@@ -1,8 +1,9 @@
-# uOttawa Software Engineering Student Association (SESA)  
+# uOttawa Software Engineering Students’ Association (SESA)  
 
 🚀 **Connecting Students with Industry Leaders** | 🎓 **Empowering the Next Generation of Software Engineers**  
 
-SESA is the official Software Engineering Student Association at the University of Ottawa. Our mission is to bridge the gap between students and the tech industry by hosting networking events, technical workshops, and professional development opportunities.  
+SESA is the official Software Engineering Students’ Association at the University of Ottawa.
+Our mission is to bridge the gap between students and the tech industry by hosting networking events, technical workshops, and professional development opportunities.  
 
 ## 🎯 What We Do  
 - ✅ **Industry Networking & Speaker Events**  
@@ -19,4 +20,4 @@ Whether you're a student looking to expand your skills or a company interested i
 - 💬 **Discord:** [Join Our Community](https://discord.gg/64GQtgXhah)
 - 📸 **Instagram:** [Follow us on Instagram](https://instagram.com/uottawasesa)  
 
-🚀 **Let's build the future of software engineering together!**  
+🚀 **Let's build the future of software engineering together!**
