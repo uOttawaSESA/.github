@@ -15,7 +15,7 @@ Our mission is to bridge the gap between students and the tech industry by hosti
 Whether you're a student looking to expand your skills or a company interested in connecting with top talent, SESA is here to help!  
 
 📌 Stay connected:  
-- 🌐 **Website:** [Coming Soon](#)  
+- 🌐 **Website:** [SESA Website](https://www.sesa-aegl.ca/en)  
 - 💼 **LinkedIn:** [SESA on LinkedIn](https://ca.linkedin.com/company/software-engineering-student-association)  
 - 💬 **Discord:** [Join Our Community](https://discord.gg/64GQtgXhah)
 - 📸 **Instagram:** [Follow us on Instagram](https://instagram.com/uottawasesa)  
